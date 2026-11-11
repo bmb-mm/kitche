@@ -1,9 +1,11 @@
 
 
 teluso kitch
+
 food
 juice
 fruits
+
 
 chocolate
 sugar
@@ -12,3 +14,9 @@ sugar
 thank u
 
 done 
+
+
+thank u
+
+final
+
